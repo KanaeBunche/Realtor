@@ -1,0 +1,38 @@
+.about-container {
+    text-align: center;
+    background-color: #F1F1F1;
+    padding-top:0px;
+    margin-top:-43px ;
+}
+@media (max-width: 390px) {
+    img {
+        height: 50%;
+        width: 100%;
+       
+        
+    
+    }
+
+}
+
+@media (max-width: 768px) {
+    img {
+        height: 50%;
+        width: 100%;
+       
+        
+    
+    }
+
+}
+
+@media (max-width: 1440px) {
+    img {
+        height: 50%;
+        width: 100%;
+       
+        
+    
+    }
+
+}

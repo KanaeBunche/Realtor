@@ -1,0 +1,166 @@
+ @import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+
+.home-container {
+    text-align: left;
+    padding: 20px;
+    height: 100vh;
+
+  }
+  
+   .title {
+    font-family: "Forum", sans-serif;
+    font-size: 103.5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    margin-top: 250px;
+    font-weight: 100;
+ 
+  }
+
+  .title-left {
+    margin-left: 269px;
+  }
+
+  .title2 {
+    font-family: "Forum", sans-serif;
+    font-size: 103.5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    margin-top: 0px;
+    color: #ABACAC;
+    font-weight: 100;
+  }
+
+  .title2-left{
+    margin-left: 210px;
+  }
+  
+  .subtitle {
+    font-family: "Forum", sans-serif;
+    font-size: 40px;
+    margin-top: 0px;
+    font-family: "Code Pro", 'sans-serif';
+    color: #333E43;
+    letter-spacing: 4px;
+
+  }
+
+  .subtitle-left{
+    margin-left: 160px;
+    
+  }
+ .arrow{
+    text-align: right;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+ .arrow-right{
+    margin-left: 320px;
+    
+ } 
+
+  .homepage{
+    height: 100vh;
+    
+  }
+
+  @media (max-width: 390px) {
+    .arrow{
+        text-align: right;
+        padding: 20px;
+        margin-top:-10px;
+        padding-bottom: 0px;
+        margin-bottom:0px ;
+        margin-left: 50px;
+     }
+     .title{
+      margin-top: 150px;
+      font-size: 70px;
+
+  }
+  .title2-left{
+    margin-left: -2px;
+    font-size: 70px;
+  }
+  .title-left {
+    margin-left: 19px;
+  }
+  .subtitle {
+    font-family: "Forum", sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+    font-family: "Code Pro", 'sans-serif';
+    color: #333E43;
+
+  }
+
+  .subtitle-left{
+    margin-left: 40px;
+  }
+
+  .subtitle {
+    font-family: "Forum", sans-serif;
+    font-size: 24px;
+    margin-top: 0px;
+    font-family: "Code Pro", 'sans-serif';
+    color: #333E43;
+
+  }
+
+  
+  }
+
+
+  @media (min-width: 768px) {
+    .arrow{
+      text-align: right;
+      padding: 20px;
+      margin-top:-10px;
+      padding-bottom: 0px;
+      margin-bottom:0px ;
+      margin-left: 150px;
+  }
+  .title{
+    margin-top: 250px;
+    font-size: 140px;
+
+}
+.title2-left{
+  margin-left: -12px;
+  font-size: 130px;
+}
+.title-left {
+  margin-left: 25px;
+}
+.subtitle-left{
+  margin-left: 110px;
+}
+    
+  }
+
+  @media (min-width: 1440px) {
+    .title2-left{
+      margin-left: 140px;
+      font-size: 140px;
+    }
+    .title-left {
+      margin-left: 180px;
+    }
+    .subtitle-left{
+      margin-left: 240px;
+      font-size:50px;
+    }
+
+    .arrow{
+      text-align: right;
+      padding: 20px;
+      margin-top:-10px;
+      padding-bottom: 0px;
+      margin-bottom:0px ;
+      margin-left: 310px;
+  }
+
+  }

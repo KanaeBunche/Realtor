@@ -1,0 +1,49 @@
+ /* .contact-container {
+    text-align: center;
+    height: 100%;
+}  */
+
+
+.contact-container {
+    position: absolute;
+    width: 100%
+ 
+   
+  }
+  
+  .contact-icons {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+
+  .contact-icons:hover{
+    color: orange
+  }
+  @media (min-width: 1440px) {
+    .gmail{
+        height: 100px;
+        width: 100px;
+    }
+    .tiktok{
+        height: 100px;
+        width: 100px;
+    }
+  }
+
+.gmail{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+
+}
+
+
+.tiktok{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+
+}

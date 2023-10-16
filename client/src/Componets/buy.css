@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Source+Code+Pro&display=swap');
+
+
+.buy-container {
+    background-color: #BDBAB9;
+    padding: 100px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 100;
+    height: 100%;
+    margin-top: -669px;
+    margin-bottom: 100px;
+    
+    
+  }
+
+  .steps5{
+    text-transform: none;
+    color: black;
+  
+  }
+
+  .steps{
+    text-transform: none;
+    color: black;
+    margin-left:40px;
+    font-size: 40px;
+
+  }
+
+  .buys{
+    text-transform: none;
+    color: white;
+    text-decoration: none;
+    
+    
+  }
+
+  .buytitle{
+    
+    color:#9c9488;
+    letter-spacing: 0px;
+    font-size: 70px;
+   
+    
+  }
+
+  .buy-container little{
+    color: #5d6468;
+   
+    
+  }
+
+  .tiny{
+    font-size: 30px;
+  }
+
+  .num{
+    background: black;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    color:#BDBAB9;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 40px;
+    margin-right: 5px;
+    text-align: center;
+    width: 40px;
+    
+
+  }
+  
+  .step {
+    font-size: 34px;
+  }
+
+  .buys{
+    border: 1px solid #9C9488;
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    background-color: #9C9488;
+    width: 9rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+  
+  }
+
+
+  @media (max-width: 390px) {
+    .num{
+      background: black;
+      border-radius: 50%;
+      -moz-border-radius: 50%;
+      -webkit-border-radius: 50%;
+      color:#BDBAB9;
+      display: inline-block;
+      font-weight: bold;
+      line-height: 40px;
+      margin-right: 1px;
+      text-align: center;
+      width: 40px;
+     
+  
+    }
+    
+    .step {
+      font-size: 24px;
+    }
+   .steps5{
+      text-align: center;
+      margin-left: -100px;
+     
+    }
+    .buytitle{
+      margin-left: -40px;
+      font-size: 30px;}
+    
+      .tiny{
+        font-size: 12px;
+        margin-left: -40px;
+      }
+      .verytiny{
+        font-size: 9px;
+        margin-left: -40px;
+      }
+
+      .buys{
+        border: 1px solid #9C9488;
+        display: inline-block;
+        padding: 15px;
+        cursor: pointer;
+        color: white;
+        text-decoration: none;
+        background-color: #9C9488;
+        width: 9rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+        
+      }
+      .steps{
+        text-transform: none;
+        color: black;
+        margin-left:-40px;
+        font-size: 30px;
+    
+      }
+
+      
+
+
+}
+
+
+@media (min-width: 1440px) {
+  
+
+  .steps5{
+    text-transform: none;
+    color: black;
+  
+  }
+
+  .steps{
+    text-transform: none;
+    color: black;
+    margin-left:40px;
+    font-size: 40px;
+
+  }
+
+  .buys{
+    text-transform: none;
+    color: white;
+    text-decoration: none;
+    
+    
+  }
+
+  .buytitle{
+    
+    color:#9c9488;
+    letter-spacing: 0px;
+    font-size: 70px;
+   
+    
+  }
+
+  .buy-container little{
+    color: #5d6468;
+   
+    
+  }
+
+  .tiny{
+    font-size: 30px;
+  }
+
+  .num{
+    background: black;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    color:#BDBAB9;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 40px;
+    margin-right: 5px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    
+
+  }
+  
+  .step {
+    font-size: 37px;
+   
+  }
+
+  .buys{
+    border: 1px solid #9C9488;
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    background-color: #9C9488;
+    width: 9rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+  
+  }
+    
+
+
+}
+
